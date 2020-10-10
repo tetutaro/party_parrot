@@ -11,7 +11,6 @@ Originator: "[Cult of the Party Parrot](https://cultofthepartyparrot.com/)"
 | <img src="/cult_of_party_parrot/slowparrot.gif" width="24" height="24"> | Slow Parrot | <img src="/cult_of_party_parrot/fastparrot.gif" width="24" height="24"> | Fast Parrot | <img src="/cult_of_party_parrot/ultrafastparrot.gif" width="24" height="24"> | Ultra Fast Parrot |
 | <img src="/cult_of_party_parrot/sassyparrot.gif" width="24" height="24"> | Sassy Parrot | <img src="/cult_of_party_parrot/discoparrot.gif" width="24" height="24"> | Disco Parrot | <img src="/cult_of_party_parrot/meldparrot.gif" width="24" height="24"> | Meld Parrot |
 | <img src="/cult_of_party_parrot/inverseparrot.gif" width="24" height="24"> | Inverse Parrot | <img src="/cult_of_party_parrot/darkmodeparrot.gif" width="24" height="24"> | Darkmode Parrot | <img src="/cult_of_party_parrot/invisibleparrot.gif" width="24" height="24"> | Invisible Parrot |
-| <img src="/cult_of_party_parrot/horizontalparrot.gif" width="24" height="24"> | Horizontal Parrot | <img src="/cult_of_party_parrot/verticalparrot.gif" width="24" height="24"> | Vertical Parrot | <img src="/cult_of_party_parrot/levitationparrot.gif" width="24" height="24"> | Levitation Parrot |
 | <img src="/cult_of_party_parrot/headingparrot.gif" width="24" height="24"> | Heading Parrot | <img src="/cult_of_party_parrot/headsetparrot.gif" width="24" height="24"> | Headset Parrot | <img src="/cult_of_party_parrot/partyparrot.gif" width="24" height="24"> | Party Parrot |
 
 ## My Original Handmade Parrots
