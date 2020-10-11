@@ -24,11 +24,13 @@ Originator: "[Cult of the Party Parrot](https://cultofthepartyparrot.com/)"
 | <img src="/original/congaparrot.gif" width="24" height="24"> | Conga Line Parrot | <img src="/original/moonwalkingparrot.gif" width="24" height="24"> | Moonwalking Parrot |
 | <img src="/original/dual_congaparrot.gif" width="24" height="24"> | Dual Conga Line Parrot | <img src="/original/dual_moonwalkingparrot.gif" width="24" height="24"> | Dual Moonwalking Parrot |
 | <img src="/original/diagonalparrot.gif" width="24" height="24"> | Diagonal Parrot | <img src="/original/discordparrot.gif" width="24" height="24"> | Discord Parrot |
+| <img src="/original/zigzagparrot.gif" width="24" height="24"> | Zigzag Parrot | <img src="/original/overlappedparrot.gif" width="24" height="24"> | Overlapped Parrot |
 | <img src="/original/pairparrot.gif" width="24" height="24"> | Pair Parrot | <img src="/original/jammedparrot.gif" width="24" height="24"> | Jammed Parrot |
 | <img src="/original/linedparrot.gif" width="24" height="24"> | Lined Parrot | <img src="/original/tiledparrot.gif" width="24" height="24"> | Tiled Parrot |
 | <img src="/original/shiftparrot.gif" width="24" height="24"> | Shift Parrot | | |
 | <img src="/original/sync_dual_congaparrot.gif" width="24" height="24"> | Sync Dual Conga Line Parrot | <img src="/original/sync_dual_moonwalkingparrot.gif" width="24" height="24"> | Sync Dual Moonwalking Parrot |
 | <img src="/original/sync_diagonalparrot.gif" width="24" height="24"> | Sync Diagonal Parrot | <img src="/original/sync_discordparrot.gif" width="24" height="24"> | Sync Discord Parrot |
+| <img src="/original/sync_zigzagparrot.gif" width="24" height="24"> | Sync Zigzag Parrot | <img src="/original/gap_overlappedparrot.gif" width="24" height="24"> | Gap Overlapped Parrot |
 | <img src="/original/sync_pairparrot.gif" width="24" height="24"> | Sync Pair Parrot | <img src="/original/sync_jammedparrot.gif" width="24" height="24"> | Sync Jammed Parrot |
 | <img src="/original/sync_linedparrot.gif" width="24" height="24"> | Sync Lined Parrot | <img src="/original/sync_tiledparrot.gif" width="24" height="24"> | Sync Tiled Parrot |
 | <img src="/original/blueparrot.gif" width="24" height="24"> | Blue Parrot | | |
@@ -38,6 +40,7 @@ Originator: "[Cult of the Party Parrot](https://cultofthepartyparrot.com/)"
 | <img src="/original/blue_congaparrot.gif" width="24" height="24"> | Blue Conga Line Parrot | <img src="/original/blue_moonwalkingparrot.gif" width="24" height="24"> | Blue Moonwalking Parrot |
 | <img src="/original/blue_dual_congaparrot.gif" width="24" height="24"> | Blue Dual Conga Line Parrot | <img src="/original/blue_dual_moonwalkingparrot.gif" width="24" height="24"> | Blue Dual Moonwalking Parrot |
 | <img src="/original/blue_diagonalparrot.gif" width="24" height="24"> | Blue Diagonal Parrot | <img src="/original/blue_discordparrot.gif" width="24" height="24"> | Blue Discord Parrot |
+| <img src="/original/blue_zigzagparrot.gif" width="24" height="24"> | Blue Zigzag Parrot | <img src="/original/blue_overlappedparrot.gif" width="24" height="24"> | Blue Overlapped Parrot |
 | <img src="/original/blue_pairparrot.gif" width="24" height="24"> | Blue Pair Parrot | <img src="/original/blue_jammedparrot.gif" width="24" height="24"> | Blue Jammed Parrot |
 | <img src="/original/blue_linedparrot.gif" width="24" height="24"> | Blue Lined Parrot | <img src="/original/blue_tiledparrot.gif" width="24" height="24"> | Blue Tiled Parrot |
 | <img src="/original/frontparrot.gif" width="24" height="24"> | Front Parrot | <img src="/original/transparent_frontparrot.gif" width="24" height="24"> | Transparent Front Parrot
