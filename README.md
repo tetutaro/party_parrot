@@ -1,5 +1,5 @@
 # party_parrot
-I am enthusiastic about the party parrot
+I am enthusiastic about the party parrot.
 
 Originator: "[Cult of the Party Parrot](https://cultofthepartyparrot.com/)"
 
@@ -16,6 +16,8 @@ Originator: "[Cult of the Party Parrot](https://cultofthepartyparrot.com/)"
 ## My Original Handmade Parrots
 
 ### Basic Parrots
+
+Most of below parrots also exist in the originator, but I remade them as I like.
 
 | Image | Name | Image | Name |
 |:---:|:---|:---:|:---|
