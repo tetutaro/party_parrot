@@ -23,7 +23,7 @@ Most of below parrots also exist in the originator, but I remade them as I like.
 |:---:|:---|:---:|:---|
 | <img src="/handmade/basic/lgtm_parrot.gif" width="24" height="24"> | LGTM Parrot | <img src="/handmade/basic/transparentparrot.gif" width="24" height="24"> | Transparent Parrot |
 | <img src="/handmade/basic/tripletsparrot.gif" width="24" height="24"> | Triplets Parrot | <img src="/handmade/basic/quadparrot.gif" width="24" height="24"> | Quad Parrot |
-| <img src="/handmade/basic/slowsparrot.gif" width="24" height="24"> | Slow Parrot | <img src="/handmade/basic/smoothparrot.gif" width="24" height="24"> | Smooth Parrot |
+| <img src="/handmade/basic/slowparrot.gif" width="24" height="24"> | Slow Parrot | <img src="/handmade/basic/smoothparrot.gif" width="24" height="24"> | Smooth Parrot |
 | <img src="/handmade/basic/slomoparrot.gif" width="24" height="24"> | Slo-mo Parrot | <img src="/handmade/basic/matrixparrot.gif" width="24" height="24"> | Matrix Parrot |
 | <img src="/handmade/basic/backwardsparrot.gif" width="24" height="24"> | Backwards Parrot | <img src="/handmade/basic/middleparrot.gif" width="24" height="24"> | Middle Parrot |
 | <img src="/handmade/basic/congaparrot.gif" width="24" height="24"> | Conga Line Parrot | <img src="/handmade/basic/moonwalkingparrot.gif" width="24" height="24"> | Moonwalking Parrot |
