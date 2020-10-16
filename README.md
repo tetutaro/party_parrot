@@ -17,7 +17,7 @@ Originator: "[Cult of the Party Parrot](https://cultofthepartyparrot.com/)"
 
 ### Basic Parrots
 
-Most of below parrots also exist in the originator, but I remade them as I like.
+Some of below parrots also exist in the originator, but I remade them as I like.
 
 | Image | Name | Image | Name |
 |:---:|:---|:---:|:---|
@@ -34,13 +34,6 @@ Most of below parrots also exist in the originator, but I remade them as I like.
 | <img src="/handmade/basic/pairparrot.gif" width="24" height="24"> | Pair Parrot | <img src="/handmade/basic/jammedparrot.gif" width="24" height="24"> | Jammed Parrot |
 | <img src="/handmade/basic/linedparrot.gif" width="24" height="24"> | Lined Parrot | <img src="/handmade/basic/tiledparrot.gif" width="24" height="24"> | Tiled Parrot |
 | <img src="/handmade/basic/dualparrot.gif" width="24" height="24"> | Dual Parrot | <img src="/handmade/basic/kissingparrot.gif" width="24" height="24"> | Kissing Parrot |
-
-### Parrots needed to Synchronize Colors
-
-| Image | Name | Image | Name |
-|:---:|:---|:---:|:---|
-| <img src="/handmade/shift/parrot.gif" width="24" height="24"> | Shift Parrot | <img src="/handmade/shift/backwardsparrot.gif" width="24" height="24"> | Shift Backwards Parrot |
-| <img src="/handmade/shift/congaparrot.gif" width="24" height="24"> | Shift Conga Line Parrot | <img src="/handmade/shift/moonwalkingparrot.gif" width="24" height="24"> | Shift Moonwalking Parrot |
 
 ### Parrots with Synchronized Colors
 
@@ -59,9 +52,11 @@ Most of below parrots also exist in the originator, but I remade them as I like.
 | Image | Name | Image | Name |
 |:---:|:---|:---:|:---|
 | <img src="/handmade/original/parrot.gif" width="24" height="24"> | Orignal Parrot | | |
+| <img src="/handmade/original/twinsparrot.gif" width="24" height="24"> | Original Twins Parrot | <img src="/handmade/original/tripletsparrot.gif" width="24" height="24"> | Original Triplets Parrot |
+| <img src="/handmade/original/fastparrot.gif" width="24" height="24"> | Original Fast Parrot | <img src="/handmade/original/ultrafastparrot.gif" width="24" height="24"> | Original Ultra Fast Parrot |
+| <img src="/handmade/original/slowparrot.gif" width="24" height="24"> | Original Slow Parrot | <img src="/handmade/original/smoothparrot.gif" width="24" height="24"> | Original Smooth Parrot |
 | <img src="/handmade/original/backwardsparrot.gif" width="24" height="24"> | Original Backwards Parrot | <img src="/handmade/original/middleparrot.gif" width="24" height="24"> | Original Middle Parrot |
 | <img src="/handmade/original/sassyparrot.gif" width="24" height="24"> | Original Sassy Parrot | <img src="/handmade/original/discoparrot.gif" width="24" height="24"> | Original Disco Parrot |
-| <img src="/handmade/original/twinsparrot.gif" width="24" height="24"> | Original Twins Parrot | <img src="/handmade/original/tripletsparrot.gif" width="24" height="24"> | Original Triplets Parrot |
 | <img src="/handmade/original/congaparrot.gif" width="24" height="24"> | Original Conga Line Parrot | <img src="/handmade/original/moonwalkingparrot.gif" width="24" height="24"> | Original Moonwalking Parrot |
 | <img src="/handmade/original/double_congaparrot.gif" width="24" height="24"> | Original Double Conga Line Parrot | <img src="/handmade/original/double_moonwalkingparrot.gif" width="24" height="24"> | Original Double Moonwalking Parrot |
 | <img src="/handmade/original/pair_congaparrot.gif" width="24" height="24"> | Original Pair Conga Line Parrot | <img src="/handmade/original/pair_moonwalkingparrot.gif" width="24" height="24"> | Original Pair Moonwalking Parrot |
@@ -76,9 +71,11 @@ Most of below parrots also exist in the originator, but I remade them as I like.
 | Image | Name | Image | Name |
 |:---:|:---|:---:|:---|
 | <img src="/handmade/blue/parrot.gif" width="24" height="24"> | Blue Parrot | | |
+| <img src="/handmade/blue/twinsparrot.gif" width="24" height="24"> | Blue Twins Parrot | <img src="/handmade/blue/tripletsparrot.gif" width="24" height="24"> | Blue Triplets Parrot |
+| <img src="/handmade/original/fastparrot.gif" width="24" height="24"> | Original Fast Parrot | <img src="/handmade/original/ultrafastparrot.gif" width="24" height="24"> | Original Ultra Fast Parrot |
+| <img src="/handmade/original/slowparrot.gif" width="24" height="24"> | Original Slow Parrot | <img src="/handmade/original/smoothparrot.gif" width="24" height="24"> | Original Smooth Parrot |
 | <img src="/handmade/blue/backwardsparrot.gif" width="24" height="24"> | Blue Backwards Parrot | <img src="/handmade/blue/middleparrot.gif" width="24" height="24"> | Blue Middle Parrot |
 | <img src="/handmade/blue/sassyparrot.gif" width="24" height="24"> | Blue Sassy Parrot | <img src="/handmade/blue/discoparrot.gif" width="24" height="24"> | Blue Disco Parrot |
-| <img src="/handmade/blue/twinsparrot.gif" width="24" height="24"> | Blue Twins Parrot | <img src="/handmade/blue/tripletsparrot.gif" width="24" height="24"> | Blue Triplets Parrot |
 | <img src="/handmade/blue/congaparrot.gif" width="24" height="24"> | Blue Conga Line Parrot | <img src="/handmade/blue/moonwalkingparrot.gif" width="24" height="24"> | Blue Moonwalking Parrot |
 | <img src="/handmade/blue/double_congaparrot.gif" width="24" height="24"> | Blue Double Conga Line Parrot | <img src="/handmade/blue/double_moonwalkingparrot.gif" width="24" height="24"> | Blue Double Moonwalking Parrot |
 | <img src="/handmade/blue/pair_congaparrot.gif" width="24" height="24"> | Blue Pair Conga Line Parrot | <img src="/handmade/blue/pair_moonwalkingparrot.gif" width="24" height="24"> | Blue Pair Moonwalking Parrot |
