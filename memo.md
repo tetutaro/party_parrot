@@ -61,7 +61,33 @@ use slow frame
 
 use slow frame
 
-### Slo-mo
+### Slo-mo (60ms)
+
+1. 1
+2. 1, 3 trans 10 (cut shape as 1)
+3. 1, 3 trans 30 (cut shape as 1)
+4. 1. 3 trans 50
+5. 1. 3 trans 70
+6. 3
+7. 3, 5 trans 10 (cut shape as 3)
+8. 3, 5 trans 30 (cut shape as 3)
+9. 3. 5 trans 50
+10. 3. 5 trans 70
+11. 5
+12. 5, 7 trans 10 (cut shape as 5)
+13. 5, 7 trans 30 (cut shape as 5)
+14. 5. 7 trans 50
+15. 5. 7 trans 70
+16. 7
+17. 7, 9 trans 10 (cut shape as 7)
+18. 7, 9 trans 30 (cut shape as 7)
+19. 7. 9 trans 50
+20. 7. 9 trans 70
+21. 9
+22. 9, 1 trans 10 (cut shape as 9)
+23. 9, 1 trans 30 (cut shape as 9)
+24. 9. 1 trans 50
+25. 9. 1 trans 70
 
 ### Matrix
 
