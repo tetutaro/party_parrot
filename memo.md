@@ -53,13 +53,13 @@ asis
 4. 7
 5. 10
 
-### Slow (50ms)
+### Slow (80ms)
 
-use slow frame
+asis
 
-### Smooth (30ms)
+### Smooth (40ms)
 
-use slow frame
+use smooth frame
 
 ### Slo-mo (60ms)
 

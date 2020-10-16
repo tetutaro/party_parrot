@@ -53,7 +53,7 @@ In honor of Sirocco.
 
 | Image | Name | Image | Name |
 |:---:|:---|:---:|:---|
-| <img src="/handmade/original/parrot.gif" width="24" height="24"> | Orignal Parrot | | |
+| <img src="/handmade/original/parrot.gif" width="24" height="24"> | Orignal Parrot | <img src="/handmade/original/lgtm_parrot.gif" width="24" height="24"> | Orignal LGTM Parrot |
 | <img src="/handmade/original/twinsparrot.gif" width="24" height="24"> | Original Twins Parrot | <img src="/handmade/original/tripletsparrot.gif" width="24" height="24"> | Original Triplets Parrot |
 | <img src="/handmade/original/fastparrot.gif" width="24" height="24"> | Original Fast Parrot | <img src="/handmade/original/ultrafastparrot.gif" width="24" height="24"> | Original Ultra Fast Parrot |
 | <img src="/handmade/original/slowparrot.gif" width="24" height="24"> | Original Slow Parrot | <img src="/handmade/original/smoothparrot.gif" width="24" height="24"> | Original Smooth Parrot |
@@ -73,7 +73,7 @@ In honor of Sirocco.
 
 | Image | Name | Image | Name |
 |:---:|:---|:---:|:---|
-| <img src="/handmade/blue/parrot.gif" width="24" height="24"> | Blue Parrot | | |
+| <img src="/handmade/blue/parrot.gif" width="24" height="24"> | Blue Parrot | <img src="/handmade/blue/lgtm_parrot.gif" width="24" height="24"> | Blue LGTM Parrot |
 | <img src="/handmade/blue/twinsparrot.gif" width="24" height="24"> | Blue Twins Parrot | <img src="/handmade/blue/tripletsparrot.gif" width="24" height="24"> | Blue Triplets Parrot |
 | <img src="/handmade/blue/fastparrot.gif" width="24" height="24"> | Blue Fast Parrot | <img src="/handmade/blue/ultrafastparrot.gif" width="24" height="24"> | Blue Ultra Fast Parrot |
 | <img src="/handmade/blue/slowparrot.gif" width="24" height="24"> | Blue Slow Parrot | <img src="/handmade/blue/smoothparrot.gif" width="24" height="24"> | Blue Smooth Parrot |
