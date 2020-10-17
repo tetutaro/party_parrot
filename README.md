@@ -95,3 +95,20 @@ In honor of Sirocco.
 |:---:|:---|:---:|:---|
 | <img src="/handmade/front/parrot.gif" width="24" height="24"> | Front Parrot | <img src="/handmade/front/transparentparrot.gif" width="24" height="24"> | Transparent Front Parrot
 | <img src="/handmade/front/trainparrot.gif" width="24" height="24"> | Train Parrot | | |
+
+### ShimaEnaga (Long-tailed Tit)
+
+Fairies in the snow
+
+| Image | Name | Image | Name |
+|:---:|:---|:---:|:---|
+| <img src="/handmade/shimaenaga/shimaenaga.gif" width="24" height="24"> | ShimaEnaga | <img src="/handmade/shimaenaga/lgtm_shimaenaga.gif" width="24" height="24"> | LGTM ShimaEnaga |
+
+### Evenly Parrots
+
+Parrots that devide the world evenly
+
+
+| Image | Name | Image | Name |
+|:---:|:---|:---:|:---|
+| <img src="/handmade/evenly/parrot.gif" width="24" height="24"> | Evenly Parrot | <img src="/handmade/evenly/lgtm_parrot.gif" width="24" height="24"> | Evenly LGTM Parrot |
