@@ -108,6 +108,14 @@ Fairies in the snow
 | <img src="/handmade/shimaenaga/slomoshimaenaga.gif" width="24" height="24"> | Slo-mo ShimaEnaga | <img src="/handmade/shimaenaga/matrixshimaenaga.gif" width="24" height="24"> | Matrix ShimaEnaga |
 | <img src="/handmade/shimaenaga/backwardsshimaenaga.gif" width="24" height="24"> | Backwards ShimaEnaga | <img src="/handmade/shimaenaga/middleshimaenaga.gif" width="24" height="24"> | Middle ShimaEnaga |
 | <img src="/handmade/shimaenaga/sassyshimaenaga.gif" width="24" height="24"> | Sassy ShimaEnaga | <img src="/handmade/shimaenaga/discoshimaenaga.gif" width="24" height="24"> | Disco ShimaEnaga |
+| <img src="/handmade/shimaenaga/congashimaenaga.gif" width="24" height="24"> | Conga Line ShimaEnaga | <img src="/handmade/shimaenaga/moonwalkingshimaenaga.gif" width="24" height="24"> | Moonwalking ShimaEnaga |
+| <img src="/handmade/shimaenaga/double_congashimaenaga.gif" width="24" height="24"> | Double Conga Line ShimaEnaga | <img src="/handmade/shimaenaga/double_moonwalkingshimaenaga.gif" width="24" height="24"> | Double Moonwalking ShimaEnaga |
+| <img src="/handmade/shimaenaga/pair_congashimaenaga.gif" width="24" height="24"> | Pair Conga Line ShimaEnaga | <img src="/handmade/shimaenaga/pair_moonwalkingshimaenaga.gif" width="24" height="24"> | Pair Moonwalking ShimaEnaga |
+| <img src="/handmade/shimaenaga/diagonalshimaenaga.gif" width="24" height="24"> | Diagonal ShimaEnaga | <img src="/handmade/shimaenaga/discordshimaenaga.gif" width="24" height="24"> | Discord ShimaEnaga |
+| <img src="/handmade/shimaenaga/zigzagshimaenaga.gif" width="24" height="24"> | Zigzag ShimaEnaga | <img src="/handmade/shimaenaga/overlappedshimaenaga.gif" width="24" height="24"> | Overlapped ShimaEnaga |
+| <img src="/handmade/shimaenaga/pairshimaenaga.gif" width="24" height="24"> | Pair ShimaEnaga | <img src="/handmade/shimaenaga/jammedshimaenaga.gif" width="24" height="24"> | Jammed ShimaEnaga |
+| <img src="/handmade/shimaenaga/linedshimaenaga.gif" width="24" height="24"> | Lined ShimaEnaga | <img src="/handmade/shimaenaga/tiledshimaenaga.gif" width="24" height="24"> | Tiled ShimaEnaga |
+| <img src="/handmade/shimaenaga/dualshimaenaga.gif" width="24" height="24"> | Dual ShimaEnaga | <img src="/handmade/shimaenaga/kissingshimaenaga.gif" width="24" height="24"> | Kissing ShimaEnaga |
 
 ### Evenly Parrots
 
