@@ -103,6 +103,11 @@ Fairies in the snow
 | Image | Name | Image | Name |
 |:---:|:---|:---:|:---|
 | <img src="/handmade/shimaenaga/shimaenaga.gif" width="24" height="24"> | ShimaEnaga | <img src="/handmade/shimaenaga/lgtm_shimaenaga.gif" width="24" height="24"> | LGTM ShimaEnaga |
+| <img src="/handmade/shimaenaga/twinsshimaenaga.gif" width="24" height="24"> | Twins ShimaEnaga | <img src="/handmade/shimaenaga/tripletsshimaenaga.gif" width="24" height="24"> | Triplets ShimaEnaga |
+| <img src="/handmade/shimaenaga/fastshimaenaga.gif" width="24" height="24"> | Fast ShimaEnaga | <img src="/handmade/shimaenaga/ultrafastshimaenaga.gif" width="24" height="24"> | Ultra Fast ShimaEnaga |
+| <img src="/handmade/shimaenaga/slomoshimaenaga.gif" width="24" height="24"> | Slo-mo ShimaEnaga | <img src="/handmade/shimaenaga/matrixshimaenaga.gif" width="24" height="24"> | Matrix ShimaEnaga |
+| <img src="/handmade/shimaenaga/backwardsshimaenaga.gif" width="24" height="24"> | Backwards ShimaEnaga | <img src="/handmade/shimaenaga/middleshimaenaga.gif" width="24" height="24"> | Middle ShimaEnaga |
+| <img src="/handmade/shimaenaga/sassyshimaenaga.gif" width="24" height="24"> | Sassy ShimaEnaga | <img src="/handmade/shimaenaga/discoshimaenaga.gif" width="24" height="24"> | Disco ShimaEnaga |
 
 ### Evenly Parrots
 
