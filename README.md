@@ -130,7 +130,7 @@ Parrots that devide the world evenly
 |:---:|:---|:---:|:---|
 | <img src="/handmade/evenly/parrot.gif" width="24" height="24"> | Evenly Parrot | <img src="/handmade/evenly/lgtm_parrot.gif" width="24" height="24"> | Evenly LGTM Parrot |
 | <img src="/handmade/evenly/twinsparrot.gif" width="24" height="24"> | Evenly Twins Parrot | <img src="/handmade/evenly/tripletsparrot.gif" width="24" height="24"> | Evenly Triplets Parrot |
-| <img src="/handmade/evenly/quadparrot.gif" width="24" height="24"> | Evenly Quad Parrot | <img src="/handmade/evenly/trainsparrot.gif" width="24" height="24"> | Evenly Train Parrot |
+| <img src="/handmade/evenly/quadparrot.gif" width="24" height="24"> | Evenly Quad Parrot | <img src="/handmade/evenly/trainparrot.gif" width="24" height="24"> | Evenly Train Parrot |
 | <img src="/handmade/evenly/fastparrot.gif" width="24" height="24"> | Evenly Fast Parrot | <img src="/handmade/evenly/ultrafastparrot.gif" width="24" height="24"> | Evenly Ultra Fast Parrot |
 | <img src="/handmade/evenly/slomoparrot.gif" width="24" height="24"> | Evenly Slo-mo Parrot | <img src="/handmade/evenly/matrixparrot.gif" width="24" height="24"> | Evenly Matrix Parrot |
 | <img src="/handmade/evenly/sassyparrot.gif" width="24" height="24"> | Evenly Sassy Parrot | <img src="/handmade/evenly/backwardsparrot.gif" width="24" height="24"> | Evenly Backwards Parrot |
