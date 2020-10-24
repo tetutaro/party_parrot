@@ -35,6 +35,8 @@ Some of below parrots also exist in the originator, but I remade them as I like.
 | <img src="/handmade/basic/pairparrot.gif" width="24" height="24"> | Pair Parrot | <img src="/handmade/basic/jammedparrot.gif" width="24" height="24"> | Jammed Parrot |
 | <img src="/handmade/basic/linedparrot.gif" width="24" height="24"> | Lined Parrot | <img src="/handmade/basic/tiledparrot.gif" width="24" height="24"> | Tiled Parrot |
 | <img src="/handmade/basic/dualparrot.gif" width="24" height="24"> | Dual Parrot | <img src="/handmade/basic/kissingparrot.gif" width="24" height="24"> | Kissing Parrot |
+| <img src="/handmade/basic/pythagorasparrot.gif" width="24" height="24"> | Pythagoras Parrot | <img src="/handmade/basic/backwards_pythagorasparrot.gif" width="24" height="24"> | Backwards Pythagoras Parrot |
+| <img src="/handmade/basic/double_pythagorasparrot.gif" width="24" height="24"> | Double Pythagoras Parrot | <img src="/handmade/basic/double_backwards_pythagorasparrot.gif" width="24" height="24"> | Double Backwards Pythagoras Parrot |
 
 ### Parrots with Synchronized Colors
 
@@ -70,6 +72,8 @@ In honor of Sirocco.
 | <img src="/handmade/original/pairparrot.gif" width="24" height="24"> | Original Pair Parrot | <img src="/handmade/original/jammedparrot.gif" width="24" height="24"> | Original Jammed Parrot |
 | <img src="/handmade/original/linedparrot.gif" width="24" height="24"> | Original Lined Parrot | <img src="/handmade/original/tiledparrot.gif" width="24" height="24"> | Original Tiled Parrot |
 | <img src="/handmade/original/dualparrot.gif" width="24" height="24"> | Original Dual Parrot | <img src="/handmade/original/kissingparrot.gif" width="24" height="24"> | Original Kissing Parrot |
+| <img src="/handmade/original/pythagorasparrot.gif" width="24" height="24"> | Original Pythagoras Parrot | <img src="/handmade/original/backwards_pythagorasparrot.gif" width="24" height="24"> | Original Backwards Pythagoras Parrot |
+| <img src="/handmade/original/double_pythagorasparrot.gif" width="24" height="24"> | Original Double Pythagoras Parrot | <img src="/handmade/original/double_backwards_pythagorasparrot.gif" width="24" height="24"> | Original Double Backwards Pythagoras Parrot |
 
 ### Blue Parrots
 
@@ -91,6 +95,8 @@ In honor of Sirocco.
 | <img src="/handmade/blue/pairparrot.gif" width="24" height="24"> | Blue Pair Parrot | <img src="/handmade/blue/jammedparrot.gif" width="24" height="24"> | Blue Jammed Parrot |
 | <img src="/handmade/blue/linedparrot.gif" width="24" height="24"> | Blue Lined Parrot | <img src="/handmade/blue/tiledparrot.gif" width="24" height="24"> | Blue Tiled Parrot |
 | <img src="/handmade/blue/dualparrot.gif" width="24" height="24"> | Blue Dual Parrot | <img src="/handmade/blue/kissingparrot.gif" width="24" height="24"> | Blue Kissing Parrot |
+| <img src="/handmade/blue/pythagorasparrot.gif" width="24" height="24"> | Blue Pythagoras Parrot | <img src="/handmade/blue/backwards_pythagorasparrot.gif" width="24" height="24"> | Blue Backwards Pythagoras Parrot |
+| <img src="/handmade/blue/double_pythagorasparrot.gif" width="24" height="24"> | Blue Double Pythagoras Parrot | <img src="/handmade/blue/double_backwards_pythagorasparrot.gif" width="24" height="24"> | Blue Double Backwards Pythagoras Parrot |
 
 ### Parrots facing the Front
 
@@ -120,6 +126,8 @@ Fairies in the snow
 | <img src="/handmade/shimaenaga/pairshimaenaga.gif" width="24" height="24"> | Pair ShimaEnaga | <img src="/handmade/shimaenaga/jammedshimaenaga.gif" width="24" height="24"> | Jammed ShimaEnaga |
 | <img src="/handmade/shimaenaga/linedshimaenaga.gif" width="24" height="24"> | Lined ShimaEnaga | <img src="/handmade/shimaenaga/tiledshimaenaga.gif" width="24" height="24"> | Tiled ShimaEnaga |
 | <img src="/handmade/shimaenaga/dualshimaenaga.gif" width="24" height="24"> | Dual ShimaEnaga | <img src="/handmade/shimaenaga/kissingshimaenaga.gif" width="24" height="24"> | Kissing ShimaEnaga |
+| <img src="/handmade/shimaenaga/pythagorasshimaenaga.gif" width="24" height="24"> | Pythagoras ShimaEnaga | <img src="/handmade/shimaenaga/backwards_pythagorasshimaenaga.gif" width="24" height="24"> | Backwards Pythagoras ShimaEnaga |
+| <img src="/handmade/shimaenaga/double_pythagorasshimaenaga.gif" width="24" height="24"> | Double Pythagoras ShimaEnaga | <img src="/handmade/shimaenaga/double_backwards_pythagorasshimaenaga.gif" width="24" height="24"> | Double Backwards Pythagoras ShimaEnamga |
 
 ### Evenly Parrots
 
@@ -144,6 +152,8 @@ Parrots that devide the world evenly
 | <img src="/handmade/evenly/pairparrot.gif" width="24" height="24"> | Evenly Pair Parrot | <img src="/handmade/evenly/jammedparrot.gif" width="24" height="24"> | Evenly Jammed Parrot |
 | <img src="/handmade/evenly/linedparrot.gif" width="24" height="24"> | Evenly Lined Parrot | <img src="/handmade/evenly/tiledparrot.gif" width="24" height="24"> | Evenly Tiled Parrot |
 | <img src="/handmade/evenly/dualparrot.gif" width="24" height="24"> | Evenly Dual Parrot | <img src="/handmade/evenly/kissingparrot.gif" width="24" height="24"> | Evenly Kissing Parrot |
+| <img src="/handmade/evenly/pythagorasparrot.gif" width="24" height="24"> | Evenly Pythagoras Parrot | <img src="/handmade/evenly/backwards_pythagorasparrot.gif" width="24" height="24"> | Evenly Backwards Pythagoras Parrot |
+| <img src="/handmade/evenly/double_pythagorasparrot.gif" width="24" height="24"> | Evenly Double Pythagoras Parrot | <img src="/handmade/evenly/double_backwards_pythagorasparrot.gif" width="24" height="24"> | Evenly Double Backwards Pythagoras Parrot |
 
 ### Evenly Parrots with Synchronized Colors
 

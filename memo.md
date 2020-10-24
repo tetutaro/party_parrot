@@ -253,6 +253,14 @@ just accumulated
 1-4: left former
 5-8: right former
 
+### pythagoras (50ms)
+
+left,right 40 pixel
+up,down 16 pixel
+
+2.backwards  3.forwards
+1.forwards   4.backwards
+
 ## Colors
 
 r, g, b, c, m, y, k
