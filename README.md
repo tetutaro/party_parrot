@@ -147,6 +147,8 @@ Parrots that devide the world evenly
 
 ### Evenly Parrots with Synchronized Colors
 
+| Image | Name | Image | Name |
+|:---:|:---|:---:|:---|
 | <img src="/handmade/sync_evenly/double_congaparrot.gif" width="24" height="24"> | Sync Evenly Double Conga Line Parrot | <img src="/handmade/sync_evenly/double_moonwalkingparrot.gif" width="24" height="24"> | Sync Evenly Double Moonwalking Parrot |
 | <img src="/handmade/sync_evenly/pair_congaparrot.gif" width="24" height="24"> | Sync Evenly Pair Conga Line Parrot | <img src="/handmade/sync_evenly/pair_moonwalkingparrot.gif" width="24" height="24"> | Sync Evenly Pair Moonwalking Parrot |
 | <img src="/handmade/sync_evenly/diagonalparrot.gif" width="24" height="24"> | Sync Evenly Diagonal Parrot | <img src="/handmade/sync_evenly/discordparrot.gif" width="24" height="24"> | Sync Evenly Discord Parrot |
