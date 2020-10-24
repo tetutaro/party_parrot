@@ -136,3 +136,21 @@ Parrots that devide the world evenly
 | <img src="/handmade/evenly/sassyparrot.gif" width="24" height="24"> | Evenly Sassy Parrot | <img src="/handmade/evenly/backwardsparrot.gif" width="24" height="24"> | Evenly Backwards Parrot |
 | <img src="/handmade/evenly/middleparrot.gif" width="24" height="24"> | Evenly Middle Parrot | <img src="/handmade/evenly/outerparrot.gif" width="24" height="24"> | Evenly Outer Parrot |
 | <img src="/handmade/evenly/discoparrot.gif" width="24" height="24"> | Evenly Disco Parrot | <img src="/handmade/evenly/ocsidparrot.gif" width="24" height="24"> | Evenly Ocsid Parrot |
+| <img src="/handmade/evenly/congaparrot.gif" width="24" height="24"> | Evenly Conga Line Parrot | <img src="/handmade/evenly/moonwalkingparrot.gif" width="24" height="24"> | Evenly Moonwalking Parrot |
+| <img src="/handmade/evenly/double_congaparrot.gif" width="24" height="24"> | Evenly Double Conga Line Parrot | <img src="/handmade/evenly/double_moonwalkingparrot.gif" width="24" height="24"> | Evenly Double Moonwalking Parrot |
+| <img src="/handmade/evenly/pair_congaparrot.gif" width="24" height="24"> | Evenly Pair Conga Line Parrot | <img src="/handmade/evenly/pair_moonwalkingparrot.gif" width="24" height="24"> | Evenly Pair Moonwalking Parrot |
+| <img src="/handmade/evenly/diagonalparrot.gif" width="24" height="24"> | Evenly Diagonal Parrot | <img src="/handmade/evenly/discordparrot.gif" width="24" height="24"> | Evenly Discord Parrot |
+| <img src="/handmade/evenly/zigzagparrot.gif" width="24" height="24"> | Evenly Zigzag Parrot | <img src="/handmade/evenly/overlappedparrot.gif" width="24" height="24"> | Evenly Overlapped Parrot |
+| <img src="/handmade/evenly/pairparrot.gif" width="24" height="24"> | Evenly Pair Parrot | <img src="/handmade/evenly/jammedparrot.gif" width="24" height="24"> | Evenly Jammed Parrot |
+| <img src="/handmade/evenly/linedparrot.gif" width="24" height="24"> | Evenly Lined Parrot | <img src="/handmade/evenly/tiledparrot.gif" width="24" height="24"> | Evenly Tiled Parrot |
+| <img src="/handmade/evenly/dualparrot.gif" width="24" height="24"> | Evenly Dual Parrot | <img src="/handmade/evenly/kissingparrot.gif" width="24" height="24"> | Evenly Kissing Parrot |
+
+### Evenly Parrots with Synchronized Colors
+
+| <img src="/handmade/sync_evenly/double_congaparrot.gif" width="24" height="24"> | Sync Evenly Double Conga Line Parrot | <img src="/handmade/sync_evenly/double_moonwalkingparrot.gif" width="24" height="24"> | Sync Evenly Double Moonwalking Parrot |
+| <img src="/handmade/sync_evenly/pair_congaparrot.gif" width="24" height="24"> | Sync Evenly Pair Conga Line Parrot | <img src="/handmade/sync_evenly/pair_moonwalkingparrot.gif" width="24" height="24"> | Sync Evenly Pair Moonwalking Parrot |
+| <img src="/handmade/sync_evenly/diagonalparrot.gif" width="24" height="24"> | Sync Evenly Diagonal Parrot | <img src="/handmade/sync_evenly/discordparrot.gif" width="24" height="24"> | Sync Evenly Discord Parrot |
+| <img src="/handmade/sync_evenly/zigzagparrot.gif" width="24" height="24"> | Sync Evenly Zigzag Parrot | <img src="/handmade/sync_evenly/overlappedparrot.gif" width="24" height="24"> | Sync Evenly Overlapped Parrot |
+| <img src="/handmade/sync_evenly/pairparrot.gif" width="24" height="24"> | Sync Evenly Pair Parrot | <img src="/handmade/sync_evenly/jammedparrot.gif" width="24" height="24"> | Sync Evenly Jammed Parrot |
+| <img src="/handmade/sync_evenly/linedparrot.gif" width="24" height="24"> | Sync Evenly Lined Parrot | <img src="/handmade/sync_evenly/tiledparrot.gif" width="24" height="24"> | Sync Evenly Tiled Parrot |
+| <img src="/handmade/sync_evenly/dualparrot.gif" width="24" height="24"> | Sync Evenly Dual Parrot | <img src="/handmade/sync_evenly/kissingparrot.gif" width="24" height="24"> | Sync Evenly Kissing Parrot |
